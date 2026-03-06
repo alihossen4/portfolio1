@@ -42,7 +42,7 @@ export const Contact =()=> {
   return (
     <>
 
-      <main className="container mx-auto p-6" id="contact">
+      <main className="container mx-auto p-6 mb-30" id="contact">
         <h1 className="text-4xl font-bold mb-6 text-center mt-5">Contact Me</h1>
 
         <div className="flex flex-col md:flex-row gap-12 justify-center items-start">
