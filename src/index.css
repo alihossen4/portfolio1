@@ -9,7 +9,7 @@ html,body{
 }
 
 @layer utilities {
-    @keyframes blink {
+    @keyframes ba {
         0%,100%{
             opacity: 1;
         }
@@ -18,8 +18,8 @@ html,body{
         }
     }
 
-    .animate-blink{
-        animation: blink 0.6s step-end infinite;
+    .animate-ba{
+        animation: ba 0.6s step-end infinite;
     }
 }
 @layer utilities {

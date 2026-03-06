@@ -1,5 +1,5 @@
 import { useEffect } from "react"
-
+import {Contact} from "./sections/Contact"
 export const Navbar = ({menuOpen, setMenuOpen}) =>{
 
     useEffect(() =>{

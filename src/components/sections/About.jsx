@@ -18,7 +18,7 @@ export const About = () =>{
         <div>
           <h2 className="text-3xl font-bold mb-8 bg-gradient-to-r    from-blue-500 to-cyan-400 text-center text-transparent bg-clip-text">About Me</h2>
             <div>
-              <p className="text-gray-300 mb-6">
+              <p className="text-gray-300 mb-6 text-xl text-center">
                 Passionate developer with expertise in building scalable web applications and creating innovative solutions.
               </p>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -52,10 +52,10 @@ export const About = () =>{
                       <h3 className="text-xl font-bold mb-4 ">🏫 Education</h3>
                       <ul className="list-disc list-inside text-gray-300 space-y-2">
                         <li>
-                          <strong >BS. in Health science</strong> - Gono University (from 2021)
+                          <strong >BSc. in Health science</strong> - Gono University (from 2021)
                         </li>
                         <li>
-                          Relevant coursework: data entry, web searching, Cloud computing
+                          Relevant coursework:<strong> Mern stack </strong> - Creative it institute (from 2024-2025)
                         </li>
                       </ul>
                     </div>
@@ -63,7 +63,7 @@ export const About = () =>{
                       <h3 className="text-xl font-bold mb-4 ">💼 Work Experience</h3>
                       <div className="space-y-4 text-gray-300">
                         <div>
-                          <h4>No working experiencr in the relevant sector </h4>
+                          <h4 className="w-[400px]">I have 2 year+ selft experience in the relevant field as of end with 2025. Since my previuos github lost. So, i can't show 2y+ experience . </h4>
                         </div>
                       </div>
                     </div>
