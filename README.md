@@ -2,7 +2,7 @@
 # Personal Portfolio
 
 - This is just a simple portfolio repository and a portfolio
-
+- For more info contact **mdahossen.dev@gmail.com / mdhssn.bin@gmail.com**
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
